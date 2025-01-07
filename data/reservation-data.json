@@ -1,0 +1,26 @@
+[
+    {
+        "reservationId": "200",
+        "courtNumber": 1,
+        "dateReserved": "2019-01-01T00:00:00.000Z",
+        "startTime": 10,
+        "endTime": 11,
+        "userId": "300"
+    },
+    {
+        "reservationId": "201",
+        "courtNumber": 2,
+        "dateReserved": "2019-01-01T00:00:00.000Z",
+        "startTime": 8,
+        "endTime": 9,
+        "userId": "300"
+    },
+    {
+        "reservationId": "202",
+        "courtNumber": 3,
+        "dateReserved": "2019-01-01T00:00:00.000Z",
+        "startTime": 4,
+        "endTime": 5,
+        "userId": "300"
+    }
+]

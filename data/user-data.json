@@ -1,0 +1,66 @@
+[
+    {
+        "userUID": "300",
+        "identifier": "dfgg@fff.com",
+        "password": "123456",
+        "provider": "email",
+        "dateCreated": "2019-01-01T00:00:00.000Z",
+        "lastSignIn": "2019-01-01T00:00:00.000Z",
+        "isMember": true,
+        "courtReserved": [
+            {
+                "reservationId": "200",
+                "courtNumber": 1,
+                "dateReserved": "2019-01-01T00:00:00.000Z",
+                "startTime": 10,
+                "endTime": 11
+            },
+            {
+                "reservationId": "201",
+                "courtNumber": 2,
+                "dateReserved": "2019-01-01T00:00:00.000Z",
+                "startTime": 8,
+                "endTime": 9
+            },
+            {
+                "reservationId": "202",
+                "courtNumber": 3,
+                "dateReserved": "2019-01-01T00:00:00.000Z",
+                "startTime": 4,
+                "endTime": 5
+            }
+        ]
+    },
+    {
+        "userUID": "301",
+        "identifier": "sheli@gmail.com",
+        "password": "123456",
+        "provider": "google",
+        "dateCreated": "2019-01-01T00:00:00.000Z",
+        "lastSignIn": "2019-01-01T00:00:00.000Z",
+        "isMember": false,
+        "courtReserved": [
+            {
+                "reservationId": "205",
+                "courtNumber": 6,
+                "dateReserved": "2019-01-01T00:00:00.000Z",
+                "startTime": 10,
+                "endTime": 11
+            },
+            {
+                "reservationId": "206",
+                "courtNumber": 4,
+                "dateReserved": "2019-01-01T00:00:00.000Z",
+                "startTime": 8,
+                "endTime": 9
+            },
+            {
+                "reservationId": "202",
+                "courtNumber": 3,
+                "dateReserved": "2019-01-01T00:00:00.000Z",
+                "startTime": 4,
+                "endTime": 5
+            }
+        ]
+    }
+]
